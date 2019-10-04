@@ -7,7 +7,20 @@
 		<h1>Jason Weng</h1>
 		<h2>About Me</h2>
     <p>I am a Sophomore from University of Washington. My
-    intended majors are informatics and economics. I am from
-    China and lived in United State for 8 years.</p>
+    intended majors are informatics and economics.</p>
+    <h3>Favorite Websites</h3>
+    <u1>
+      <li>
+        <a href="https://www.youtube.com/">youtube</a>
+      </li>
+      <li>
+        <a href="https://canvas.uw.edu/courses">canvas</a>
+      </li>
+    </u1>
+    <h4>Favorite Pictures</h4>
+    <a href="https://images2.minutemediacdn.com/image/upload/c_crop,h_1689,w_3000,x_0,y_404/f_auto,q_auto,w_1100/v1563809078/shape/mentalfloss/28865-gettyimages-500694766.jpg">
+      <img src="https://images2.minutemediacdn.com/image/upload/c_crop,h_1689,w_3000,x_0,y_404/f_auto,q_auto,w_1100/v1563809078/shape/mentalfloss/28865-gettyimages-500694766.jpg"
+      title="dog" style="width:300px;height:200px;margin:5px">
+    </a>
 	</body>
 </html>
